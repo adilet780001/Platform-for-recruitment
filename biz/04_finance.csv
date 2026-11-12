@@ -1,0 +1,2 @@
+date,bucket,type,amount_usd,description,balance_reserve,balance_working,balance_experiments,balance_investments,total
+2026-11-12,all,init,100,Стартовый капитал,40,30,20,10,100
